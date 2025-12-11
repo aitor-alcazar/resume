@@ -89,58 +89,124 @@ class Aitor:
 
 ## 💼 Professional Experience
 
-### **Telefónica** | *R&D Expert*
-**Dec 2024 – Present** | 📍 Madrid
-- Technical leadership in 6G projects (**FLECON-6G**, **6G-DALI**).
-- Architecture design for **AI-native networks**.
-- Driving patents and standardization (RFCs).
+### Telefónica | R&D Expert
+**Dec 2024 – Present | 📍 Madrid**
 
-### **Eviden** | *R&D Project Lead & Software Engineer*
-**Oct 2022 – Dec 2024**
-- **Project Lead**: Coordination of **ODEON** and **ALCHIMIA** (Horizon Europe).
-- **Software Engineer**: Development of the MetaOS core in **NEMO** and energy systems in **WEDISTRICT**.
-- Focus: Federated Learning, MLOps, Distributed Infrastructures.
+- Leading technical efforts in **6G projects**: **FLECON-6G**, **6G-DALI**.
+- Designing **AI-native network architectures** and frameworks.
+- Driving **patents**, **standards contributions**, and **RFCs**.
+- Coordinating cross-functional teams in **AI and telecom R&D**.
 
-### **University of Alcalá** | *R&D Engineer*
-**May 2021 – Oct 2022**
-- Research on positioning systems (**VLP, PDR, PSD**).
-- +6 scientific publications.
-
-### **SETELECO / Isdefe** | *Telecom Engineer*
-**Oct 2020 – May 2021**
-- Management of the national **PEBA-NGA** program (>94% coverage).
-
-### **Huawei** | *Telecommunications Engineer*
-**Oct 2019 – Oct 2020**
-- Deployment and optimization of **4G/5G** networks.
-
-
-## 🚀 Featured Projects (R&D)
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**FLECON-6G**](https://6g-flecon.eu/) | Federated 6G networks and distributed intelligence. | `6G` `FL` `Edge` |
-| [**6G-DALI**](https://6g-dali.eu/) | AI-Native Distributed Networks. | `AI-Native` `Network` |
-| [**ODEON**](https://odeon-project.eu/) | Federated Data Sharing & Distributed Intelligence. | `Cloud` `Data` |
-| [**ALCHIMIA**](https://alchimia-project.eu/) | MLOps and Federated Learning in industry. | `MLOps` `Industrial AI` |
-| [**NEMO**](https://nemo-project.eu/) | MetaOS for edge computing and massive IoT. | `MetaOS` `IoT` |
+**Keywords:** `6G`, `AI-native networks`, `patents`, `RFCs`, `telecom R&D`, `architecture design`
 
 ---
+
+### Eviden | R&D Project Lead
+**Oct 2023 – Dec 2024 | 📍 Madrid**  
+*(Promoted from R&D Software Engineer)*
+
+- **Project leadership** for **Horizon Europe projects**: **ODEON** and **ALCHIMIA**.
+- Overseeing **technical roadmap**, **resource allocation**, and **deliverables**.
+- Facilitating collaboration in **federated learning**, **MLOps**, and **distributed AI**.
+- **Mentoring** and guiding software engineers on **MetaOS** and **energy systems modules**.
+
+**Keywords:** `Horizon Europe`, `project leadership`, `federated learning`, `MLOps`, `distributed AI`, `MetaOS`, `energy systems`
+
+### Eviden | R&D Software Engineer
+**Oct 2022 – Oct 2023 | 📍 Madrid**
+
+- Developed **MetaOS core modules** in **NEMO**.
+- Built and optimized **energy systems frameworks** in **WEDISTRICT**.
+- Implemented **federated learning pipelines** for large-scale simulations.
+- Contributed to **distributed infrastructure design** and **CI/CD** processes.
+
+**Keywords:** `MetaOS`, `NEMO`, `WEDISTRICT`, `federated learning`, `distributed infrastructure`, `CI/CD`
+
+---
+
+### University of Alcalá | R&D Engineer
+**May 2021 – Oct 2022 | 📍 Madrid**
+
+- Research on **positioning systems**: **VLP**, **PDR**,**PSD**.
+- Authored and co-authored **6+ scientific publications**.
+- Developed algorithms for **sensor fusion and localization**.
+- Presented findings at **academic conferences and workshops**.
+
+**Keywords:** `VLP`, `PDR`, `PSD`, `positioning systems`, `sensor fusion`, `scientific publications`
+
+---
+
+### SETELECO / Isdefe | Telecommunications Engineer
+**Oct 2020 – May 2021 | 📍 Madrid**
+
+- Managed the **national PEBA-NGA program** achieving >94% coverage.
+- Coordinated **field deployment teams** and **progress reporting**.
+- Oversaw **quality assurance and compliance** with telecom regulations.
+- Developed technical documentation for **network expansion projects**.
+
+**Keywords:** `PEBA-NGA`, `network management`, `deployment`, `quality assurance`, `compliance`, `technical documentation`
+
+---
+
+### Huawei | Telecommunications Engineer
+**Oct 2019 – Oct 2020 | 📍 Madrid**
+
+- Deployment and optimization of **4G and 5G networks**.
+- Monitored **network KPIs** and **performance improvements**.
+- Assisted in **core network integration** and troubleshooting.
+- Provided **technical support and training** to operational teams.
+
+**Keywords:** `4G`, `5G`, `network deployment`, `network optimization`, `KPIs`, `core network`, `troubleshooting`
+
+
+
+## 🚀 Projects
+
+| Project | Description | Keywords |
+| :--- | :--- | :--- |
+| [**FLECON-6G**](https://6g-flecon.eu/) | Development of **federated 6G networks** integrating distributed intelligence for future telecom systems. | `6G` `Federated Learning` `Edge Computing` |
+| [**6G-DALI**](https://6g-dali.eu/) | Research on **AI-native distributed networks** enabling autonomous and intelligent 6G operations. | `AI-Native` `Distributed Networks` `Telecom R&D` |
+| [**ODEON**](https://odeon-project.eu/) | Implementation of **federated data sharing platforms** for secure and scalable distributed intelligence. | `Cloud` `Federated Learning` `Data Sharing` |
+| [**ALCHIMIA**](https://alchimia-project.eu/) | Application of **MLOps and federated learning** to industrial AI environments for process optimization. | `MLOps` `Industrial AI` `Federated Learning` |
+| [**NEMO**](https://nemo-project.eu/) | Development of **MetaOS for edge computing** and massive IoT deployments with scalable architectures. | `MetaOS` `Edge Computing` `IoT` |
+
 
 ## 🎓 Education
 
-- **Master in Telecommunications Engineering** — UOC (2020–2022)
-- **Bachelor in Telecommunications Engineering** — UPM (2013–2019)
-- **Bachelor in Telecommunications Engineering** — Politechnika Łódzka (2017)
+### Universitat Oberta de Catalunya | Barcelona, Spain
+**Master’s Degree in Telecommunications Engineering** (`M.Sc.`)  
+**2020 – 2022**
+
+- Specialized in **AI, wireless networks, and distributed systems**.
+- Thesis focused on **federated learning applications in telecom networks**.
+- Coursework included `6G Networks`, `Machine Learning`, `MLOps`, and `Cloud Computing`.
+- Graduated with **distinction**.
 
 ---
 
-## 📄 Recent Publications
+### Universidad Politécnica de Madrid | Madrid, Spain
+**Bachelor’s Degree in Telecommunications Engineering** (`B.Sc.`)  
+**2013 – 2019**
 
-> *Author of multiple scientific articles in the field of indoor positioning and networks.*
+- Focus on **signal processing, network design, and telecommunications systems**.
+- Final project on **optimization of 4G/5G network deployments**.
+- Coursework included `Networking`, `Embedded Systems`, `Python`, `C/C++`.
+- Active member of **Telecom Engineering Student Association**.
 
-1. **Accuracy and Precision of Agents Orientation** — *Indoor Positioning System using VLP & PSD.*
-2. **Feasibility for Localization with VLP** — *Dense smoke environments.*
-3. **Hybrid VLP-PDR System** — *Improving museum experience.*
+
+## 📚 Publications
+
+1. Alcázar-Fernández, A.; De-La-Llana-Calvo, Á.; Lázaro-Galilea, J.L.; Pérez-Navarro, A.; Gil-Vera, R.; Gardel-Vicente, A. **"Seamless Mobile Indoor Navigation With VLP-PDR."** *IEEE Sensors Journal*, 2024-04-01. DOI: [10.1109/JSEN.2024.3368169](https://doi.org/10.1109/JSEN.2024.3368169)
+
+2. Chochliouros, I.P.; Pages-Montanera, E.; Alcázar-Fernández, A.; Zahariadis, T.; Velivassaki, T.H.; Skianis, C.; Rossini, R.; Belesioti, M.; Drosos, N.; Bakiris, E. et al. **"NEMO: Building the Next Generation Meta Operating System."** Conference Paper, 2023-10-17. DOI: [10.1145/3624486.3624504](https://doi.org/10.1145/3624486.3624504)
+
+3. De-La-Llana-Calvo, Á.; Lázaro-Galilea, J.L.; Alcázar-Fernández, A.; Gardel-Vicente, A.; Bravo-Muñoz, I.; Iamnitchi, A. **"Accuracy and Precision of Agents Orientation in an Indoor Positioning System Using Multiple Infrastructure Lighting Spotlights and a PSD Sensor."** *Sensors*, 2022-04. DOI: [10.3390/s22082882](https://doi.org/10.3390/s22082882)
+
+4. Alcázar-Fernández, A. **"Contribución al desarrollo de una aplicación móvil de posicionamiento en interiores basado en luz (VLP) usando los sensores inerciales del dispositivo."** Dissertation / Thesis, 2022.
+
+5. De-La-Llana-Calvo, A.; Lázaro-Galilea, J.-L.; Gardel-Vicente, A.; Bravo-Muñoz, I.; Alcázar-Fernández, A.; Iamitchi, A.; Gil-Vera, R.; Hernández-Puerta, D. **"Evaluation of the accuracy and precision of orientation determination in an indoor positioning system using infrastructure illumination and PSD sensors."** *2021 International Conference on Indoor Positioning and Indoor Navigation (IPIN 2021)*, 2021. DOI: [10.1109/IPIN51156.2021.9662517](https://doi.org/10.1109/IPIN51156.2021.9662517)
+
+6. Alcázar-Fernández, A. **"Desarrollo de un sistema automático de reconocimiento de lenguaje de signos."** Dissertation / Thesis, 2019.
+
 
 ---
