@@ -18,6 +18,8 @@
   </p>
 </div>
 
+---
+
 ## 👨‍💻 About me
 
 > I am passionate about **technology and innovation**. My work lies at the intersection of **AI, advanced connectivity, and intelligent networks**. I combine industry experience, academic research, and active participation in **European Horizon projects**, with a strategic mindset and strong technical execution.
@@ -39,6 +41,8 @@ class Aitor:
     def contact(self):
         return "aitor28alcazar@gmail.com"
 ```
+
+---
 
 ## 🛠️ Tech Skills
 
@@ -77,6 +81,7 @@ class Aitor:
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-1E6091?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/Robotics-1E6091?style=for-the-badge)
 
+---
 ## :star2: Soft Skills
 
 ![Leadership](https://img.shields.io/badge/Leadership-1E6091?style=for-the-badge)
@@ -86,7 +91,7 @@ class Aitor:
 ![Communication](https://img.shields.io/badge/Communication-1E6091?style=for-the-badge)
 ![Project Management](https://img.shields.io/badge/Project_Management-1E6091?style=for-the-badge)
 
-
+---
 ## 💼 Professional Experience
 
 ### Telefónica | R&D Expert
@@ -98,8 +103,6 @@ class Aitor:
 - Coordinating cross-functional teams in **AI and telecom R&D**.
 
 **Keywords:** `6G`, `AI-native networks`, `patents`, `RFCs`, `telecom R&D`, `architecture design`
-
----
 
 ### Eviden | R&D Project Lead
 **Oct 2023 – Dec 2024 | 📍 Madrid**  
@@ -122,7 +125,7 @@ class Aitor:
 
 **Keywords:** `MetaOS`, `NEMO`, `WEDISTRICT`, `federated learning`, `distributed infrastructure`, `CI/CD`
 
----
+
 
 ### University of Alcalá | R&D Engineer
 **May 2021 – Oct 2022 | 📍 Madrid**
@@ -134,7 +137,7 @@ class Aitor:
 
 **Keywords:** `VLP`, `PDR`, `PSD`, `positioning systems`, `sensor fusion`, `scientific publications`
 
----
+
 
 ### SETELECO / Isdefe | Telecommunications Engineer
 **Oct 2020 – May 2021 | 📍 Madrid**
@@ -146,7 +149,7 @@ class Aitor:
 
 **Keywords:** `PEBA-NGA`, `network management`, `deployment`, `quality assurance`, `compliance`, `technical documentation`
 
----
+
 
 ### Huawei | Telecommunications Engineer
 **Oct 2019 – Oct 2020 | 📍 Madrid**
@@ -158,7 +161,7 @@ class Aitor:
 
 **Keywords:** `4G`, `5G`, `network deployment`, `network optimization`, `KPIs`, `core network`, `troubleshooting`
 
-
+---
 
 ## 🚀 Projects
 
@@ -170,6 +173,7 @@ class Aitor:
 | [**ALCHIMIA**](https://alchimia-project.eu/) | Application of **MLOps and federated learning** to industrial AI environments for process optimization. | `MLOps` `Industrial AI` `Federated Learning` |
 | [**NEMO**](https://nemo-project.eu/) | Development of **MetaOS for edge computing** and massive IoT deployments with scalable architectures. | `MetaOS` `Edge Computing` `IoT` |
 
+---
 
 ## 🎓 Education
 
@@ -210,3 +214,4 @@ class Aitor:
 
 
 ---
+Made with ❤️ by [Aitor Alcázar](https://github.com/aitor-alcazar)
