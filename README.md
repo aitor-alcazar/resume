@@ -20,19 +20,6 @@
 
 ---
 
-## 🌐 Web Resume (GitHub Pages)
-
-You can now view a modern web version of this resume in the `docs/` folder. To publish it with GitHub Pages:
-
-1. Go to **Settings → Pages** in this repository.
-2. Select **Deploy from a branch**.
-3. Choose **Branch: `main`** and **Folder: `/docs`**.
-
-Once enabled, it will be available at:
-`https://<your-github-username>.github.io/<repository-name>/`
-
----
-
 ## 👨‍💻 About me
 
 > I am passionate about **technology and innovation**. My work lies at the intersection of **AI, advanced connectivity, and intelligent networks**. I combine industry experience, academic research, and active participation in **European Horizon projects**, with a strategic mindset and strong technical execution.
