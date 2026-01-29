@@ -214,4 +214,4 @@ class Aitor:
 
 
 ---
-Made with ❤️ by [Aitor Alcázar](https://github.com/aitor-alcazar)
+Made with ❤️ by [Aitor Alcázar Fernández](https://aitor-alcazar.github.io/resume/)
